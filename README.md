@@ -46,7 +46,7 @@ An example audio clip, it's for the above text, is below:
     </audio>
 </figure>
 
-In case your browser does not support this audio format, download it here [Kiswa-00001.wav](https://github.com/Rono8/kiswahili_tts/blob/master/Kiswa-00001.wav)
+In case your browser does not support this audio format, download it here [Kiswa-00001.wav](https://github.com/Humphryshikunzi/tts_final/blob/master/Kiswa-00001.wav)
 
 # Background Research
 When doing research on Language Processing, an interesting concept that is important is the **Arpabets**, the original TTS was done on English text, but because we want to do it for Kiswahili we will need to use the Kisahili  Arpabets. Below is the list of Kiswahili Arpabets
