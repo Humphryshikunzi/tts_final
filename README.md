@@ -462,9 +462,6 @@ sol   - pip uninstall TensorflowTTS -y
 ``
 2. When training and the sytem crashes, kinldy lower the batch size to 8 or 4, note that at the hood computations are done in matrices, it become very big matrices when large batch sizes is used and this causes the system to crash due to deficiency of memory.
 ``
-# Contact
-For more information, kindly contact
-kiptookelvin96@gmail.com 
 
 # Licence
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
