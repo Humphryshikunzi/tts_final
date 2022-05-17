@@ -468,8 +468,3 @@ kiptookelvin96@gmail.com
 
 # Licence
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
-
-# Acknowledgement
-Much thanks to the team that helped work on data processing, which included manually relating textfiles to their corresponding audio files.
-
-I am also grateful to my research supervisors, Dr. Ciira Maina, Director of the Center for Data Science and Artificial Intelligence, and Prof Elijah Mwangi, Faculty of Engineering, University of Nairobi, who have offered significant assistance throughout this research project.
